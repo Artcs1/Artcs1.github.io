@@ -35,7 +35,7 @@ My research aim is to answer the question: In what ways can large language model
 
 **Yu Cao**, Shaogang Gong
 
-[**Project**](https://yucao16.github.io/CRDI/) **|** [**Code**](https://github.com/YuCao16/CRDI) (available soon)
+[**Project**](https://yucao16.github.io/CRDI/) **|** [**Code**](https://github.com/YuCao16/CRDI)
 </div>
 </div>
 
