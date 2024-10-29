@@ -23,10 +23,21 @@ My research aim is to answer the question: In what ways can large language model
 
 
 # 🔥 News
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted to **WACV'25**!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted to **ECCV'24**!
-- *2024.06*: &nbsp;🎉🎉 One paper is available at **arXiv**!
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/01.png' alt="WACV2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer](https://arxiv.org/abs/2405.19100), **WACV 2025**
+
+Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
+
+[**Code**](https://github.com/zengqunzhao/Exp-CLIP)
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/02.png' alt="ECCV2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -38,18 +49,6 @@ My research aim is to answer the question: In what ways can large language model
 [**Project**](https://yucao16.github.io/CRDI/) **|** [**Code**](https://github.com/YuCao16/CRDI)
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/01.png' alt="arXiv" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer](https://arxiv.org/abs/2405.19100)
-
-Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
-
-[**Code**](https://github.com/zengqunzhao/Exp-CLIP)
-</div>
-</div>
-
 
 # 🎖 Honors and Awards
 - *2021.12* Computer Science **Dean's list**, University College London, UK.
