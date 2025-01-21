@@ -23,7 +23,7 @@ My research aim is to answer the question: In what ways can large language model
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted to **WACV'25**!
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted to **WACV'25 (Oral)**!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted to **ECCV'24**!
 
 # 📝 Publications 
@@ -31,7 +31,7 @@ My research aim is to answer the question: In what ways can large language model
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/01.png' alt="WACV2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer](https://arxiv.org/abs/2405.19100), **WACV 2025**
+[Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer](https://arxiv.org/abs/2405.19100), **WACV 2025 (Oral)**
 
 Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
 
