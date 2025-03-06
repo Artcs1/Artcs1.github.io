@@ -23,15 +23,16 @@ My research aim is to answer the question: In what ways can large language model
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted to **WACV'25 (Oral)**!
+- *2024.10*: &nbsp;🎉🎉 One paper is accepted to **WACV'25 <span style="color:red">(Oral)</span>**!
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted to **ECCV'24**!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv</div><img src='images/01.png' alt="WACV2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/01.png' alt="WACV2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer](https://arxiv.org/abs/2405.19100), **WACV 2025 (Oral)**
+[Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer](https://arxiv.org/abs/2405.19100)  
+**WACV 2025 (Oral)**
 
 Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
 
@@ -42,7 +43,8 @@ Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/02.png' alt="ECCV2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Few-Shot Image Generation by Conditional Relaxing Diffusion Inversion](https://arxiv.org/abs/2407.07249), **ECCV 2024**
+[Few-Shot Image Generation by Conditional Relaxing Diffusion Inversion](https://arxiv.org/abs/2407.07249)  
+**ECCV 2024 (Poster)**
 
 **Yu Cao**, Shaogang Gong
 
