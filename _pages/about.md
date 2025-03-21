@@ -57,7 +57,7 @@ Zengqun Zhao, Ziquan Liu, **Yu Cao**, Shaogang Gong, Ioannis Patras
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer](https://arxiv.org/abs/2405.19100)  
-**WACV 2025 (Oral)**
+**WACV 2025 <span style="color:red">(Oral)</span>**
 
 Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
 
