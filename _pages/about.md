@@ -41,7 +41,7 @@ My research aim is to answer the question: In what ways can large language model
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/AIM-Fair.png' alt="CVPR2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/AIM-FAIR.png' alt="CVPR2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data](https://arxiv.org/abs/2503.05665)  
