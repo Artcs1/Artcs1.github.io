@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a first-year PhD student in Computer Science at the Computer Vision Group in the School of Electronic Engineering and Computer Science at the Queen Mary University of London, under the supervision of [Prof. Shaogang Gong](http://www.eecs.qmul.ac.uk/~sgg/).
+Currently, I am a second-year PhD student in Computer Science at the Computer Vision Group in the School of Electronic Engineering and Computer Science at the Queen Mary University of London, under the supervision of [Prof. Shaogang Gong](http://www.eecs.qmul.ac.uk/~sgg/).
 
 My research aim is to answer the question: In what ways can large language models be optimally utilized to facilitate multimodal learning in fine-grained unsupervised domain adaptation and domain generalization? Consequently, I am deeply interested in generative models, multimodal, and domain generalization.
 
