@@ -23,12 +23,37 @@ My research aim is to answer the question: In what ways can large language model
 
 
 # 🔥 News
-- *2024.10*: &nbsp;🎉🎉 One paper is accepted to **WACV'25 <span style="color:red">(Oral)</span>**!
-- *2024.07*: &nbsp;🎉🎉 One paper is accepted to **ECCV'24**!
+- *2025.03*: &nbsp;🎉🎉 Two papers were accepted to **CVPR'25**!
+- *2024.10*: &nbsp;🎉🎉 One paper was accepted to **WACV'25 <span style="color:red">(Oral)</span>**!
+- *2024.07*: &nbsp;🎉🎉 One paper was accepted to **ECCV'24**!
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/01.png' alt="WACV2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ASCED.png' alt="CVPR2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Temporal Score Analysis for Understanding and Correcting Diffusion Artifacts](https://arxiv.org/pdf/2503.16218)  
+**CVPR 2025**
+
+**Yu Cao**, Zengqun Zhao, Ioannis Patras, Shaogang Gong
+
+[**Project**](https://yucao16.github.io/ASCED/) **|** [**Code**](https://github.com/YuCao16/ASCED)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/AIM-Fair.png' alt="CVPR2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data](https://arxiv.org/abs/2503.05665)  
+**CVPR 2025**
+
+Zengqun Zhao, Ziquan Liu, **Yu Cao**, Shaogang Gong, Ioannis Patras
+
+[**Project**](https://zengqunzhao.github.io/AIMFair) **|** [**Code**](https://github.com/zengqunzhao/AIM-Fair)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/Exp-CLIP.png' alt="WACV2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer](https://arxiv.org/abs/2405.19100)  
@@ -40,7 +65,7 @@ Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/02.png' alt="ECCV2024" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/CRDI.png' alt="ECCV2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Few-Shot Image Generation by Conditional Relaxing Diffusion Inversion](https://arxiv.org/abs/2407.07249)  
