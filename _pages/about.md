@@ -34,21 +34,21 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/AIM-FAIR.png' alt="CVPR2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/colm2025.jpg' alt="COLM2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[AIM-Fair: Advancing Algorithmic Fairness via Selectively Fine-Tuning Biased Models with Contextual Synthetic Data](https://arxiv.org/abs/2503.05665)  
-**CVPR 2025**
+[Beyond Blanket Masking: Examining Granularity for Privacy Protection in Images Captured by Blind and Low Vision Users](https://arxiv.org/abs/2503.05665)  
+**COLM 2025**
 
 Zengqun Zhao, Ziquan Liu, **Yu Cao**, Shaogang Gong, Ioannis Patras
 
-[**Project**](https://zengqunzhao.github.io/AIMFair) **|** [**Code**](https://github.com/zengqunzhao/AIM-Fair)
+[**Project**](https://artcs1.github.io/VLMPrivacy/) **|** [**Code**](https://github.com/Artcs1/VLM-Privacy)
 </div>
 </div>
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ieee_tip2022.jpg' alt="IEEETIP2024" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ieee_tip2024.jpg' alt="IEEETIP2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Probabilistic Intersection-Over-Union for Training and Evaluation of Oriented Object Detectors](https://ieeexplore.ieee.org/document/10382963)  
