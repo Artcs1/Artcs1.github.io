@@ -85,7 +85,7 @@ Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
 - *2021.12* Computer Science **Dean's list**, University College London, UK.
 
 # 📖 Educations
-- *2024.08 - Now, PhD, Stony Brook University(SBU), NY, USA.
+- *2024.08 - Now*, PhD, Stony Brook University(SBU), NY, USA.
 - *2020.03 - 2022.08*, Master (GPA 4.0), Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brasil.
 - *2015.03 - 2019.12*, Bachelor (First-Class Honours), University of Trujillo, UNT, Peru.
 
