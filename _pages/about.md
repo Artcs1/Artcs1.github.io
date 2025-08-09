@@ -37,10 +37,10 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/colm2025.jpg' alt="COLM2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond Blanket Masking: Examining Granularity for Privacy Protection in Images Captured by Blind and Low Vision Users](https://arxiv.org/abs/2503.05665)  
+[Beyond Blanket Masking: Examining Granularity for Privacy Protection in Images Captured by Blind and Low Vision Users]()  
 **COLM 2025**
 
-Zengqun Zhao, Ziquan Liu, **Yu Cao**, Shaogang Gong, Ioannis Patras
+**Jeffri Murrugarra-Llerena***, Haoran Niu, K. Suzanne Barber, Hal Daumé III, Yang Trista Cao, Paola Cascante-Bonilla
 
 [**Project**](https://artcs1.github.io/VLMPrivacy/) **|** [**Code**](https://github.com/Artcs1/VLM-Privacy)
 </div>
