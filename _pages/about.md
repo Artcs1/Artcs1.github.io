@@ -26,8 +26,9 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 </p>
 
 # 🔥 News
-- *2025.03*: &nbsp;🎉🎉 Two papers were accepted to **CVPR'25**!
-- *2024.10*: &nbsp;🎉🎉 One paper was accepted to **WACV'25 <span style="color:red">(Oral)</span>**!
+- *2025.07*: &nbsp;🎉🎉 One paper accepted at **COLM'25**!
+- *2025.02*: &nbsp;🎉🎉 One paper accepted at **CVPR'25**!
+- *2024.10*: &nbsp;🎉🎉 One paper accepted at **WACV'25**!
 - *2024.08*: &nbsp;🎉🎉 Started my PhD at **Stony Brook University**!
 
 # 📝 Publications 
