@@ -85,10 +85,9 @@ Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
 - *2021.12* Computer Science **Dean's list**, University College London, UK.
 
 # 📖 Educations
-- *2023.09 - Now, PhD, Queen Mary University of London (QMUL), London, UK.
-- *2020.09 - 2021.09*, Master (Distinct GPA 4.0), University College London (UCL), London, UK.
-- *2016.09 - 2020.09*, Bachelor (First-Class Honours, GPA 4.0), University of Liverpool, Liverpool, UK.
+- *2024.08 - Now, PhD, Stony Brook University(SBU), NY, USA.
+- *2020.03 - 2022.08*, Master (GPA 4.0), Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brasil.
+- *2015.03 - 2019.12*, Bachelor (First-Class Honours), University of Trujillo, UNT, Peru.
 
 # 💻 Internships
-- *2024.06 - Now*, Research Assistant, Digital Environment Research Institute (QMUL), UK.
-- *2023.12 - 2024.05*, Research Asistant, Scalpel Limited, UK.
+- TBD
