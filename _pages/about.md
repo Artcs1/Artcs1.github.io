@@ -48,13 +48,13 @@ Zengqun Zhao, Ziquan Liu, **Yu Cao**, Shaogang Gong, Ioannis Patras
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ASCED.png' alt="CVPR2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ieee_tip2022.jpg' alt="IEEETIP2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Probabilistic Intersection-Over-Union for Training and Evaluation of Oriented Object Detectors](https://ieeexplore.ieee.org/document/10382963)  
 **IEEE Transactions on Image Processing, 2024**
 
-** Jeffri Murrugarra-Llerena**, Lucas Kirsten, Luis Felip Zeni, Claudio Rosito Jung
+**Jeffri Murrugarra-Llerena**, Lucas Kirsten, Luis Felip Zeni, Claudio Rosito Jung
 
 </div>
 </div>
