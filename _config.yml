@@ -6,12 +6,12 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yu Cao"
-school                   : "School of Electronics Engineering and Computer Science"
-address1                 : "Room CS329 Peter Landin Building"
-address2                 : "Mile End Road"
-address3                 : "London E1 4NS"
-repository               : "YuCao16/YuCao16.github.io"
+title                    : "Jeffri Murrugarra-Llerena"
+school                   : "Stony Brook University"
+address1                 : "Computer Science Department"
+address2                 : ""
+address3                 : ""
+repository               : "Artcs1/artcs1.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -24,15 +24,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yu Cao"
+  name             : "Jeffri Murrugarra-Llerena"
   avatar           : "images/me.png"
-  bio              : "Queen Mary University of London"
-  location         : "London, United Kingdom"
+  bio              : "Stony Brook University"
+  location         : "NY, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=JQ6OT8MAAAAJ"
-  email            : "yu.cao@qmul.ac.uk"
-  researchgate     : "https://www.researchgate.net/profile/Yu-Cao-156"
+  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=sPQxH0gAAAAJ"
+  email            : "jmurrugarral@cs.stonybrook.edu"
+  researchgate     : "https://www.researchgate.net/profile/Jeffri-Llerena"
   uri              :
   bitbucket        :
   codepen          :
@@ -40,7 +40,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YuCao16"
+  github           : "Artcs1"
   google_plus      :
   keybase          :
   instagram        :
@@ -48,7 +48,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0009-0003-9128-1775"
+  orcid            : "https://orcid.org/0000-0001-7650-0579"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -139,7 +139,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
