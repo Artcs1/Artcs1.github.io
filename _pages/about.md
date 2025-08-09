@@ -24,7 +24,7 @@ In 2022, I obtained my Master's in Computer Science from [Federal University of 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Two papers were accepted to **CVPR'25**!
 - *2024.10*: &nbsp;🎉🎉 One paper was accepted to **WACV'25 <span style="color:red">(Oral)</span>**!
-- *2024.07*: &nbsp;🎉🎉 One paper was accepted to **ECCV'24**!
+- *2024.08*: &nbsp;🎉🎉 Started my PhD at **Stony Brook University**!
 
 # 📝 Publications 
 
