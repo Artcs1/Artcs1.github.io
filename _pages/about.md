@@ -82,12 +82,12 @@ Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
 </div>
 
 # 🎖 Honors and Awards
-- *2021.12* Computer Science **Dean's list**, University College London, UK.
-
+- Different travel Awards from CML2019, EMNLP2022, CVPR2022, KHIPU2023
+  
 # 📖 Educations
-- *2024.08 - Now*, PhD, Stony Brook University(SBU), NY, USA.
-- *2020.03 - 2022.08*, Master (GPA 4.0), Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brasil.
-- *2015.03 - 2019.12*, Bachelor (First-Class Honours), University of Trujillo, UNT, Peru.
+- **2024.08 - Now**, PhD, Stony Brook University(SBU), NY, USA.
+- **2020.03 - 2022.08**, Master (GPA 4.0), Federal University of Rio Grande do Sul (UFRGS), Porto Alegre, Brasil.
+- **2015.03 - 2019.12**, Bachelor (First-Class Honours), University of Trujillo, UNT, Peru.
 
 # 💻 Internships
 - TBD
