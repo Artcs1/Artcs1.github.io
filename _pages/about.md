@@ -31,19 +31,8 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 - *2024.10*: &nbsp;🎉🎉 One paper accepted at **WACV'25**!
 - *2024.08*: &nbsp;🎉🎉 Started my PhD at **Stony Brook University**!
 
-# 📝 Publications 
+# 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ASCED.png' alt="CVPR2025" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Temporal Score Analysis for Understanding and Correcting Diffusion Artifacts](https://arxiv.org/pdf/2503.16218)  
-**CVPR 2025**
-
-**Yu Cao**, Zengqun Zhao, Ioannis Patras, Shaogang Gong
-
-[**Project**](https://yucao16.github.io/ASCED/) **|** [**Code**](https://github.com/YuCao16/ASCED)
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/AIM-FAIR.png' alt="CVPR2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -57,29 +46,19 @@ Zengqun Zhao, Ziquan Liu, **Yu Cao**, Shaogang Gong, Ioannis Patras
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/Exp-CLIP.png' alt="WACV2025" width="100%"></div></div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ASCED.png' alt="CVPR2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Enhancing Zero-Shot Facial Expression Recognition by LLM Knowledge Transfer](https://arxiv.org/abs/2405.19100)  
-**WACV 2025 <span style="color:red">(Oral)</span>**
+[Probabilistic Intersection-Over-Union for Training and Evaluation of Oriented Object Detectors](https://ieeexplore.ieee.org/document/10382963)  
+**IEEE Transactions on Image Processing, 2024**
 
-Zengqun Zhao, **Yu Cao**, Shaogang Gong, Ioannis Patras
+** Jeffri Murrugarra-Llerena**, Lucas Kirsten, Luis Felip Zeni, Claudio Rosito Jung
 
-[**Code**](https://github.com/zengqunzhao/Exp-CLIP)
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/CRDI.png' alt="ECCV2024" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Few-Shot Image Generation by Conditional Relaxing Diffusion Inversion](https://arxiv.org/abs/2407.07249)  
-**ECCV 2024 (Poster)**
-
-**Yu Cao**, Shaogang Gong
-
-[**Project**](https://yucao16.github.io/CRDI/) **|** [**Code**](https://github.com/YuCao16/CRDI)
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - Different travel Awards from CML2019, EMNLP2022, CVPR2022, KHIPU2023
