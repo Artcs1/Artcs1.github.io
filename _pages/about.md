@@ -47,6 +47,19 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="CVPR2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GauCho: Gaussian Distributions with Cholesky Decomposition for Oriented Object Detection]()  
+**CVPR 2025**
+
+Jose Henrique Lima Marques* ,**Jeffri Murrugarra-Llerena***, Claudio Rosito Jung
+
+[**Code**](https://github.com/Artcs1/VLM-Privacy)
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2024</div><img src='images/ieee_tip2024.jpg' alt="IEEETIP2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
