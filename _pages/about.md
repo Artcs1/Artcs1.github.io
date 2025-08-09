@@ -66,6 +66,8 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 
 **Jeffri Murrugarra-Llerena**, Fernando Manchego, Nils Murrugarra-Llerena
 
+[**Code**](https://github.com/Artcs1/DL_curriculas)
+
 </div>
 </div>
 
