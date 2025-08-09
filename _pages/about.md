@@ -42,7 +42,7 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 [Beyond Blanket Masking: Examining Granularity for Privacy Protection in Images Captured by Blind and Low Vision Users]()  
 **COLM 2025**
 
-**Jeffri Murrugarra-Llerena*** , Haoran Niu* , K. Suzanne Barber, Hal Daumé III, Yang Trista Cao, Paola Cascante-Bonilla
+**Jeffri Murrugarra-Llerena***, Haoran Niu*, K. Suzanne Barber, Hal Daumé III, Yang Trista Cao, Paola Cascante-Bonilla
 
 [**Project**](https://artcs1.github.io/VLMPrivacy/) **|** [**Code**](https://github.com/Artcs1/VLM-Privacy)
 </div>
@@ -55,7 +55,7 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 [GauCho: Gaussian Distributions with Cholesky Decomposition for Oriented Object Detection]()  
 **CVPR 2025**
 
-Jose Henrique Lima Marques* ,**Jeffri Murrugarra-Llerena***, Claudio Rosito Jung
+Jose Henrique Lima Marques*, **Jeffri Murrugarra-Llerena***, Claudio Rosito Jung
 
 [**Code**](https://github.com/jhlmarques/GauCho)
 </div>
