@@ -34,7 +34,7 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 # 📝 Selected Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/colm2025.jpg' alt="COLM2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025</div><img src='images/colm2025.jpg' alt="COLM2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Beyond Blanket Masking: Examining Granularity for Privacy Protection in Images Captured by Blind and Low Vision Users]()  
@@ -48,7 +48,7 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/ieee_tip2024.jpg' alt="IEEETIP2024" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2024</div><img src='images/ieee_tip2024.jpg' alt="IEEETIP2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Probabilistic Intersection-Over-Union for Training and Evaluation of Oriented Object Detectors](https://ieeexplore.ieee.org/document/10382963)  
