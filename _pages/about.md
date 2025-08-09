@@ -17,6 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<p align="justify">
+I am a PhD student in the Computer Science department at <a href="https://www.stonybrook.edu/">Stony Brook University</a>, advised by <a href="https://paolacascante.com/">Prof. Paola Cascante-Bonilla</a> and part of the <a href="https://paolacascante.com/lab/">SPEL lab</a>. My research is focused on Computer Vision and Natural Language Processing. Before this, I was an assistant researcher at the Federal University of Rio Grande do Sul.
+</p>
+
+<p align="justify">
+In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufrgs.br/ufrgs/inicial">Federal University of Rio Grande do Sul</a>, where I worked with <a href="https://www.inf.ufrgs.br/~crjung/">Prof. Claudio Rosito Jung</a> at the Department of Informatics. Our research focused on problems related to spherical images and oriented object detectors. Previously, I obtained a Bachelor of Science in Computer Science from <a href="https://www.unitru.edu.pe/">National University of Trujillo</a>. During my undergraduate studies, I did an exchange program for a year at the <a href="https://www.icmc.usp.br/en/">University of São Paulo (ICMC)</a>.
+</p>
+
 I am a PhD student in the Computer Science department at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Paola Cascante-Bonilla](https://paolacascante.com/) and part of the [SPEL lab](https://paolacascante.com/lab/). My research is focused on Computer Vision and Natural Language Processing. Before this, I was an assistant researcher at the Federal University of Rio Grande do Sul.
 
 In 2022, I obtained my Master's in Computer Science from [Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial), where I worked with [Prof. Claudio Rosito Jung](https://www.inf.ufrgs.br/~crjung/) at the Department of Informatics. Our research focused on problems related to spherical images and oriented object detectors. Previously, I obtained a Bachelor of Science in Computer Science from [National University of Trujillo](https://www.unitru.edu.pe/). During my undergraduate studies, I did an exchange program for a year at the [University of São Paulo (ICMC)](https://www.icmc.usp.br/en/).
