@@ -17,10 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, I am a second-year PhD student in Computer Science at the Computer Vision Group in the School of Electronic Engineering and Computer Science at the Queen Mary University of London, under the supervision of [Prof. Shaogang Gong](http://www.eecs.qmul.ac.uk/~sgg/).
+I am a PhD student in the Computer Science department at [Stony Brook University](https://www.stonybrook.edu/), advised by [Prof. Paola Cascante-Bonilla](https://paolacascante.com/) and part of the [SPEL lab](https://paolacascante.com/lab/). My research is focused on Computer Vision and Natural Language Processing. Before this, I was an assistant researcher at the Federal University of Rio Grande do Sul.
 
-My research aim is to answer the question: In what ways can large language models be optimally utilized to facilitate multimodal learning in fine-grained unsupervised domain adaptation and domain generalization? Consequently, I am deeply interested in generative models, multimodal, and domain generalization.
-
+In 2022, I obtained my Master's in Computer Science from [Federal University of Rio Grande do Sul](http://www.ufrgs.br/ufrgs/inicial), where I worked with [Prof. Claudio Rosito Jung](https://www.inf.ufrgs.br/~crjung/) at the Department of Informatics. Our research focused on problems related to spherical images and oriented object detectors. Previously, I obtained a Bachelor of Science in Computer Science from [National University of Trujillo](https://www.unitru.edu.pe/). During my undergraduate studies, I did an exchange program for a year at the [University of São Paulo (ICMC)](https://www.icmc.usp.br/en/).
 
 # 🔥 News
 - *2025.03*: &nbsp;🎉🎉 Two papers were accepted to **CVPR'25**!
