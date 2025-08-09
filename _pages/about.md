@@ -47,7 +47,6 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 </div>
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2024</div><img src='images/ieee_tip2024.jpg' alt="IEEETIP2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,6 +57,18 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2022</div><img src='images/emnlp2022.png' alt="EMNLP2022" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Improving Embeddings Representations for Comparing Higher Education Curricula: A Use Case in Computing](https://aclanthology.org/2022.emnlp-main.776/)  
+**EMNLP, 2022**
+
+**Jeffri Murrugarra-Llerena**, Fernando Manchego, Nils Murrugarra-Llerena
+
+</div>
+</div>
+
 
 
 # 🎖 Honors and Awards
