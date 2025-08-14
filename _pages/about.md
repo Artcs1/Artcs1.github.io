@@ -39,7 +39,7 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLM 2025</div><img src='images/colm2025.jpg' alt="COLM2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Beyond Blanket Masking: Examining Granularity for Privacy Protection in Images Captured by Blind and Low Vision Users]()  
+[Beyond Blanket Masking: Examining Granularity for Privacy Protection in Images Captured by Blind and Low Vision Users](https://arxiv.org/abs/2508.09245)  
 **COLM 2025**
 
 **Jeffri Murrugarra-Llerena*** , Haoran Niu* , K. Suzanne Barber, Hal Daumé III, Yang Trista Cao, Paola Cascante-Bonilla
@@ -52,7 +52,7 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="CVPR2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GauCho: Gaussian Distributions with Cholesky Decomposition for Oriented Object Detection]()  
+[GauCho: Gaussian Distributions with Cholesky Decomposition for Oriented Object Detection](https://arxiv.org/abs/2502.01565)  
 **CVPR 2025**
 
 Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Jung
