@@ -57,7 +57,7 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 
 Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Jung
 
-[**Code**](https://github.com/jhlmarques/GauCho)
+[**Project**](https://artcs1.github.io/GauCho/) **|** [**Code**](https://github.com/jhlmarques/GauCho)
 </div>
 </div>
 
