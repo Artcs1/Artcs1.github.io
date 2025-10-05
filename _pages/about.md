@@ -61,7 +61,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/wacv2025.jpg' alt="WACV2025" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/wacv_2025.jpg' alt="WACV2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Noise-Aware Evaluation of Object Detectors](https://ieeexplore.ieee.org/document/10943665)  
