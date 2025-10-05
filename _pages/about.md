@@ -62,6 +62,32 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="CVPR2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[GauCho: Gaussian Distributions with Cholesky Decomposition for Oriented Object Detection](https://arxiv.org/abs/2502.01565)  
+**CVPR 2025**
+
+Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Jung
+
+[**Project**](https://artcs1.github.io/GauCho/) **|** [**Code**](https://github.com/jhlmarques/GauCho)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WACV 2025</div><img src='images/cvpr2025.png' alt="CVPR2025" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Noise-Aware Evaluation of Object Detectors](https://ieeexplore.ieee.org/document/10943665)  
+**WACV 2025**
+
+**Jeffri Murrugarra-Llerena*** , Claudio Rosito Jung
+
+</div>
+</div>
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2024</div><img src='images/ieee_tip2024.jpg' alt="IEEETIP2024" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
