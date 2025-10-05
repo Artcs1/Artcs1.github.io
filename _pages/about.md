@@ -100,7 +100,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/cvprw2022_2.jpg' alt="CVPRW 2022" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/cvprw_2022_2.jpg' alt="CVPRW 2022" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Can We Trust Bounding Box Annotations for Object Detection?](https://ieeexplore.ieee.org/document/9857206)  
