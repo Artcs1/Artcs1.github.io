@@ -88,7 +88,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/emnlp2022.png' alt="CVPRW 2022" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/cvprw2022_2.jpg' alt="CVPRW 2022" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Can We Trust Bounding Box Annotations for Object Detection?](https://aclanthology.org/2022.emnlp-main.776/)  
@@ -100,7 +100,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/emnlp2022.png' alt="CVPRW 2022" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2022</div><img src='images/cvprw2022_1.png' alt="CVPRW 2022" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Pose Estimation for Two-View Panoramas Based on Keypoint Matching: A Comparative Study and Critical Analysis](https://aclanthology.org/2022.emnlp-main.776/)  
@@ -114,7 +114,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CSUR 2022</div><img src='images/emnlp2022.png' alt="ACM CSUR 2022" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM CSUR 2022</div><img src='images/csur2022.jpg' alt="ACM CSUR 2022" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [3D Scene Geometry Estimation from 360° Imagery: A Survey](https://aclanthology.org/2022.emnlp-main.776/)  
