@@ -67,7 +67,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 [Noise-Aware Evaluation of Object Detectors](https://ieeexplore.ieee.org/document/10943665)  
 **WACV 2025**
 
-**Jeffri Murrugarra-Llerena*** , Claudio Rosito Jung
+**Jeffri Murrugarra-Llerena** , Claudio Rosito Jung
 
 </div>
 </div>
@@ -121,7 +121,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**, Thiago Silveira, Claudio Rosito Jung
 
-[**Project**](https://artcs1.github.io/POSE-KEYPOINTS-PANORAMA/) **|** [**Code**](https://github.com/Artcs1/Keypoints)
+[**Project**](https://artcs1.github.io/POSE-KEYPOINTS-PANORAMA/) **|** [**Code**](https://github.com/Artcs1/Keypoints) 
 
 </div>
 </div>
