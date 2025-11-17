@@ -83,7 +83,6 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 **Jeffri Murrugarra-Llerena**, Lucas Kirsten, Luis Felip Zeni, Claudio Rosito Jung
 
 [**Arxiv**](https://arxiv.org/abs/2106.06072)
- 
 </div>
 </div>
 
@@ -121,8 +120,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**, Thiago Silveira, Claudio Rosito Jung
 
-[**Project**](https://artcs1.github.io/POSE-KEYPOINTS-PANORAMA/)&nbsp;**|**&nbsp;[**Code**](https://github.com/Artcs1/Keypoints)
-
+[**Project**](https://artcs1.github.io/POSE-KEYPOINTS-PANORAMA/) **|** [**Code**](https://github.com/Artcs1/Keypoints)
 </div>
 </div>
 
@@ -142,7 +140,7 @@ Thiago Silveira, Paulo G. L. Pinto, **Jeffri Murrugarra-Llerena**, Claudio Jung
 
 
 # 🎖 Honors and Awards
-- Different travel Awards from CML2019, EMNLP2022, CVPR2022, KHIPU2023
+- Different travel Awards from ICML2019, EMNLP2022, CVPR2022, KHIPU2023
   
 # 📖 Educations
 - **2024.08 - Now**, PhD, Stony Brook University(SBU), NY, USA.
