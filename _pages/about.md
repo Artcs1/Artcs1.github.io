@@ -120,7 +120,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**, Thiago Silveira, Claudio Rosito Jung
 
-[**Project**](https://artcs1.github.io/POSE-KEYPOINTS-PANORAMA/) **|**  [**Code**](https://github.com/Artcs1/Keypoints)
+[**Project**](https://artcs1.github.io/POSE-KEYPOINTS-PANORAMA/) **|** [**Code**](https://github.com/Artcs1/Keypoints)
 
 </div>
 </div>
