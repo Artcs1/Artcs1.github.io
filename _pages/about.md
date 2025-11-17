@@ -44,7 +44,7 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 
 **Jeffri Murrugarra-Llerena*** , Haoran Niu* , K. Suzanne Barber, Hal Daumé III, Yang Trista Cao, Paola Cascante-Bonilla
 
-[**Project**](https://artcs1.github.io/VLMPrivacy/) **|** [**Code**](https://github.com/Artcs1/VLM-Privacy) **|** [**Arxiv**](https://github.com/Artcs1/Keypoints)
+[**Project**](https://artcs1.github.io/VLMPrivacy/) **|** [**Code**](https://github.com/Artcs1/VLM-Privacy) **|** [**Arxiv**](https://arxiv.org/abs/2508.09245)
 </div>
 </div>
 
@@ -57,7 +57,7 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 
 Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Jung
 
-[**Project**](https://artcs1.github.io/GauCho/) **|** [**Code**](https://github.com/jhlmarques/GauCho) **|** [**Arxiv**](https://github.com/Artcs1/Keypoints)
+[**Project**](https://artcs1.github.io/GauCho/) **|** [**Code**](https://github.com/jhlmarques/GauCho) **|** [**Arxiv**](https://arxiv.org/abs/2502.01565)
 </div>
 </div>
 
@@ -68,8 +68,6 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 **WACV 2025**
 
 **Jeffri Murrugarra-Llerena*** , Claudio Rosito Jung
-
-[**Arxiv**](https://github.com/Artcs1/Keypoints)
 
 </div>
 </div>
@@ -84,7 +82,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**, Lucas Kirsten, Luis Felip Zeni, Claudio Rosito Jung
 
-[**Arxiv**](https://github.com/Artcs1/Keypoints)
+[**Arxiv**](https://arxiv.org/abs/2106.06072)
  
 </div>
 </div>
@@ -98,7 +96,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**, Fernando Manchego, Nils Murrugarra-Llerena
 
-[**Code**](https://github.com/Artcs1/DL_curriculas) **|** [**Arxiv**](https://github.com/Artcs1/Keypoints)
+[**Code**](https://github.com/Artcs1/DL_curriculas)
 </div>
 </div>
 
@@ -110,8 +108,6 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 **CVPRW, 2022**
 
 **Jeffri Murrugarra-Llerena**,  Lucas Kirsten, Claudio Rosito Jung
-
-[**Arxiv**](https://github.com/Artcs1/Keypoints)
  
 </div>
 </div>
@@ -125,8 +121,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**, Thiago Silveira, Claudio Rosito Jung
 
-[**Project**](https://artcs1.github.io/POSE-KEYPOINTS-PANORAMA/) **|** [**Code**](https://github.com/Artcs1/Keypoints) **|** 
-[**Arxiv**](https://github.com/Artcs1/Keypoints)
+[**Project**](https://artcs1.github.io/POSE-KEYPOINTS-PANORAMA/) **|** [**Code**](https://github.com/Artcs1/Keypoints)
 
 </div>
 </div>
@@ -140,7 +135,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 Thiago Silveira, Paulo G. L. Pinto, **Jeffri Murrugarra-Llerena**, Claudio Jung
 
-[**Arxiv**](https://github.com/Artcs1/Keypoints)
+[**Arxiv**](https://arxiv.org/abs/2401.09252)
 </div>
 </div>
 
