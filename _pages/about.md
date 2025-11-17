@@ -99,7 +99,6 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 **Jeffri Murrugarra-Llerena**, Fernando Manchego, Nils Murrugarra-Llerena
 
 [**Code**](https://github.com/Artcs1/DL_curriculas) **|** [**Arxiv**](https://github.com/Artcs1/Keypoints)
-
 </div>
 </div>
 
