@@ -44,7 +44,7 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 
 **Jeffri Murrugarra-Llerena*** , Haoran Niu* , K. Suzanne Barber, Hal Daumé III, Yang Trista Cao, Paola Cascante-Bonilla
 
-[**Project**](https://artcs1.github.io/VLMPrivacy/) **|** [**Code**](https://github.com/Artcs1/VLM-Privacy)
+[**Project**](https://artcs1.github.io/VLMPrivacy/) **|** [**Code**](https://github.com/Artcs1/VLM-Privacy) **|** [**Arxiv**](https://github.com/Artcs1/Keypoints)
 </div>
 </div>
 
@@ -57,7 +57,7 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 
 Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Jung
 
-[**Project**](https://artcs1.github.io/GauCho/) **|** [**Code**](https://github.com/jhlmarques/GauCho)
+[**Project**](https://artcs1.github.io/GauCho/) **|** [**Code**](https://github.com/jhlmarques/GauCho) **|** [**Arxiv**](https://github.com/Artcs1/Keypoints)
 </div>
 </div>
 
@@ -68,6 +68,8 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 **WACV 2025**
 
 **Jeffri Murrugarra-Llerena*** , Claudio Rosito Jung
+
+[**Arxiv**](https://github.com/Artcs1/Keypoints)
 
 </div>
 </div>
@@ -82,6 +84,8 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**, Lucas Kirsten, Luis Felip Zeni, Claudio Rosito Jung
 
+[**Arxiv**](https://github.com/Artcs1/Keypoints)
+ 
 </div>
 </div>
 
@@ -94,7 +98,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**, Fernando Manchego, Nils Murrugarra-Llerena
 
-[**Code**](https://github.com/Artcs1/DL_curriculas)
+[**Code**](https://github.com/Artcs1/DL_curriculas) **|** [**Arxiv**](https://github.com/Artcs1/Keypoints)
 
 </div>
 </div>
@@ -108,6 +112,8 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**,  Lucas Kirsten, Claudio Rosito Jung
 
+[**Arxiv**](https://github.com/Artcs1/Keypoints)
+ 
 </div>
 </div>
 
