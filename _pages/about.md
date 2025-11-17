@@ -120,7 +120,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**, Thiago Silveira, Claudio Rosito Jung
 
-[**Code**](https://github.com/Artcs1/Keypoints)
+[**Project**](https://artcs1.github.io/POSE-KEYPOINTS-PANORAMA/) **|**  [**Code**](https://github.com/Artcs1/Keypoints)
 
 </div>
 </div>
@@ -133,6 +133,8 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 **ACM CSUR, 2022**
 
 Thiago Silveira, Paulo G. L. Pinto, **Jeffri Murrugarra-Llerena**, Claudio Jung
+
+[**Arxiv**](https://github.com/Artcs1/Keypoints)
 
 </div>
 </div>
