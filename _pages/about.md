@@ -52,7 +52,7 @@ In 2022, I obtained my Master's in Computer Science from <a href="http://www.ufr
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='images/cvpr2025.png' alt="CVPR2025" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[GauCho: Gaussian Distributions with Cholesky Decomposition for Oriented Object Detection](https://arxiv.org/abs/2502.01565)  
+[GauCho: Gaussian Distributions with Cholesky Decomposition for Oriented Object Detection](https://ieeexplore.ieee.org/document/11094078)  
 **CVPR 2025**
 
 Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Jung
@@ -82,7 +82,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**, Lucas Kirsten, Luis Felip Zeni, Claudio Rosito Jung
 
-[**Arxiv**](https://arxiv.org/abs/2106.06072)
+[**Project**](https://artcs1.github.io/POSE-KEYPOINTS-PANORAMA/) **|** [**Arxiv**](https://arxiv.org/abs/2106.06072)
 </div>
 </div>
 
@@ -95,7 +95,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**, Fernando Manchego, Nils Murrugarra-Llerena
 
-[**Code**](https://github.com/Artcs1/DL_curriculas)
+[**Project**](https://artcs1.github.io/POSE-KEYPOINTS-PANORAMA/) **|** [**Code**](https://github.com/Artcs1/DL_curriculas)
 </div>
 </div>
 
