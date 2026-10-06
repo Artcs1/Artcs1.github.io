@@ -82,7 +82,7 @@ Jose Henrique Lima Marques* , **Jeffri Murrugarra-Llerena*** , Claudio Rosito Ju
 
 **Jeffri Murrugarra-Llerena**, Lucas Kirsten, Luis Felip Zeni, Claudio Rosito Jung
 
-[**Project**](https://artcs1.github.io/ProbIoU-Loss/) **|** [**Arxiv**](https://arxiv.org/abs/2106.06072)
+[**Project**](https://artcs1.github.io/ProbIoU-Loss/) **|** [**Code**](https://github.com/Artcs1/probiou-mmrotate) **|** [**Arxiv**](https://arxiv.org/abs/2106.06072)
 </div>
 </div>
 
