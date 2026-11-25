@@ -1,0 +1,57 @@
+/* Research Directions cards */
+.research-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5em;
+  margin: 1em 0 0.5em;
+
+  @include breakpoint($medium) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.research-card {
+  display: block;
+  margin: 0;
+
+  img, video { margin: 0; }
+
+  .research-media {
+    display: block;
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    object-fit: cover;
+    border-radius: 6px;
+    background: #fff;
+    box-shadow: 0 1px 6px rgba(0, 0, 0, 0.18);
+  }
+
+  .research-media--figure { object-fit: contain; }
+
+  figcaption {
+    margin: 0.6em 0 0;
+    font-family: inherit;
+    font-size: 0.9em;
+    color: inherit;
+    line-height: 1.4;
+
+    strong { display: block; margin-bottom: 0.2em; }
+    span { color: mix(#fff, $text-color, 20%); font-size: 0.92em; }
+  }
+}
+
+html[data-theme="dark"] .research-card {
+  .research-media { box-shadow: 0 2px 12px rgba(0, 0, 0, 0.7); }
+  .research-media--figure { filter: brightness(0.9); }
+  figcaption span { color: #9aa3ad; }
+}
+
+/* one-line publication summaries */
+.paper-summary {
+  display: block;
+  margin: -0.4em 0 0.8em;
+  font-size: 0.9em;
+  line-height: 1.45;
+  color: mix(#fff, $text-color, 15%);
+}
+html[data-theme="dark"] .paper-summary { color: #aab2bc; }

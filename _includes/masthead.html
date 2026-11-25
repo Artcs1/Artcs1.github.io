@@ -14,3 +14,22 @@
     </div>
   </div>
 </div>
+<button class="theme-toggle" type="button" aria-label="Toggle dark mode" title="Toggle dark mode"></button>
+<script>
+  (function () {
+    var root = document.documentElement;
+    var btn = document.currentScript.previousElementSibling;
+    function render() {
+      var dark = root.getAttribute('data-theme') === 'dark';
+      btn.textContent = dark ? '☀' : '☾';
+      btn.setAttribute('aria-pressed', dark ? 'true' : 'false');
+    }
+    btn.addEventListener('click', function () {
+      var next = root.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+      root.setAttribute('data-theme', next);
+      try { localStorage.setItem('theme', next); } catch (e) {}
+      render();
+    });
+    render();
+  })();
+</script>

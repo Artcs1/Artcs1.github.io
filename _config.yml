@@ -7,10 +7,9 @@
 
 # Site Settings
 title                    : "Jeffri Murrugarra-Llerena"
+description              : "PhD candidate in Computer Science at Stony Brook University working on VLM reasoning, social scene understanding, privacy-preserving AI, and oriented object detection."
 school                   : "Stony Brook University"
 address1                 : "Computer Science Department"
-address2                 : ""
-address3                 : ""
 repository               : "Artcs1/artcs1.github.io/"
 google_scholar_stats_use_cdn : true
 
@@ -30,7 +29,7 @@ author:
   location         : "NY, USA"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=sPQxH0gAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=sPQxH0gAAAAJ"
   email            : "jmurrugarral@cs.stonybrook.edu"
   researchgate     : "https://www.researchgate.net/profile/Jeffri-Llerena"
   uri              :
@@ -46,7 +45,7 @@ author:
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "jeffri-murrugarra-83498514a"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0000-0001-7650-0579"
   pinterest        :
